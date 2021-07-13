@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework_ViewPager</string>
+    <string name="order_for_today_or_tomorrow">Order for today or tomorrow</string>
+    <string name="whether_you_are_planning_an_event_or_want_to_feed_your_team_browse_our_selection_of_trays_made_for_the_office">Whether you are planning an event or want to \n feed your team, browse our selection of trays\n made for the office.</string>
+    <string name="let_the_chef_cook_for_you">Let the chef cook for you</string>
+    <string name="small_gourmet_pleasures_to_sparkle_your_day">Small gourmet pleasures to sparkle your day.</string>
+    <string name="you_want_it_to_be_delivered_at_home_at_your_n_office_or_even_come_get_back_your_parcel_a_tour_n_shop">You want it to be delivered at home, at your \n office or even come get back your \n parcel a tour shop?</string>
+    <string name="rate_restaurants">Rate restaurants</string>
+    <string name="delivery_to_your_office">Delivery to your office</string>
+    <string name="you_can_rate_restaurants_after_n_enjoy_your_meal">You can rate restaurants after \n enjoy your meal.</string>
+</resources>
