@@ -4,4 +4,4 @@
 - It includes splash screen and onboarding screen
 - Navigation, ViewPager2, DotsIndicator and Lottie used to develop this app.
 
-![screen1](figures/viewpager.gif)
+![screen1](figures/food_viewpager.gif)
